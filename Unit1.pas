@@ -11,9 +11,9 @@ type
     Button1: TButton;
     procedure Button1Click(Sender: TObject);
   private
-    { Private �錾 }
+    { Private éŒ¾ }
   public
-    { Public �錾 }
+    { Public éŒ¾ }
   end;
 
 var
@@ -25,7 +25,8 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  showmessage('Hello World'); //�@��aA
+  showmessage('Hello World'); //‡@‚ aA②
 end;
 
 end.
+
